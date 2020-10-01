@@ -1,0 +1,5 @@
+var is the variable in which we can store some information 
+like floating number or Integers or Strings etc.
+var 1 is the input which isbtypecasted to integers.
+var 2 is also an integer 
++ function adds those both input and give the result.
